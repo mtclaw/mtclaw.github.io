@@ -1,0 +1,28 @@
+{
+    // koro1FileHeader
+
+    "fileheader.customMade": {
+        "Author": "git config user.name && git config user.email",
+        "Date": "Do not edit",
+        "LastEditors": "git config user.name && git config user.email",
+        "LastEditTime": "Do not edit",
+    },
+
+    "fileheader.configObj": {
+        "autoAdd": true,
+        "createHeader": true,
+        "folderBlacklist": ["html"],
+    },
+
+    // peacock
+
+    "workbench.colorCustomizations": {
+        "commandCenter.border": "#e7e7e799",
+        "commandCenter.foreground": "#e7e7e7",
+        "titleBar.activeBackground": "#617b1e",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#617b1e99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#617b1e"
+}
