@@ -2,7 +2,7 @@
  * @Author: mtclaw kagamicannery@outlook.com
  * @Date: 2026-08-22 16:50:01
  * @LastEditors: mtclaw kagamicannery@outlook.com
- * @LastEditTime: 2026-08-22 17:19:25
+ * @LastEditTime: 2026-08-23 02:40:17
 -->
 
 # 首页
@@ -17,6 +17,6 @@
 
 以后也许还会加更多.
 
-站点源代码: [https://github.com/mtclaw/Good_Shape](https://github.com/mtclaw/Good_Shape)
+站点源代码: [https://github.com/mtclaw/mtclaw.github.io](https://github.com/mtclaw/mtclaw.github.io)
 
-站点留言区: [Github Issues](https://github.com/mtclaw/Good_Shape/issues)
+站点留言区: [Github Issues](https://github.com/mtclaw/mtclaw.github.io/issues)
