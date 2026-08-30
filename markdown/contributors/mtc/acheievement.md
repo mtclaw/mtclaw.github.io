@@ -1,11 +1,17 @@
 <!--
  * @Author: mtclaw kagamicannery@outlook.com
- * @Date: 2026-08-22 16:39:12
+ * @Date: 2026-08-22 16:50:01
  * @LastEditors: mtclaw kagamicannery@outlook.com
- * @LastEditTime: 2026-08-22 16:43:35
+ * @LastEditTime: 2026-08-30 16:04:16
 -->
 
-# 三爪师傅的进度表
+# 三爪师傅的进度记录
+
+## 豪华待办事项列表 (取前三项)
+
+* 光像仪全通关
+* 风L梦B no bomb
+* 妖精大战争ex混关
 
 ## 使用的样式
 
@@ -626,6 +632,10 @@
         <td colspan="3"><span class="waitlist">Normal+Extra(魔A)打了, 体感不错, 有时间看看Lunatic</span></td>
     </tr>
     <tr>
+        <td><span class="waitlist">TriFocuser</span></td>
+        <td colspan="3"><span class="waitlist">拍照作?! 暂时不敢动.jpg</span></td>
+    </tr>
+    <tr>
         <td rowspan="9">真珠岛</td>
         <td class="column10p" rowspan="6">Lunatic</td>
         <td class="column10p">灵梦</td>
@@ -1039,6 +1049,102 @@
             </table>
         </td>
     </tr>
+    <tr>
+        <td><span class="waitlist">IKUSAAAAAAAN!</span></td>
+        <td colspan="2"><span class="waitlist">浅尝了一下, 好像还不错</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">Taisei</span></td>
+        <td colspan="2"><span class="waitlist">还行</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">果世外</span></td>
+        <td colspan="2"><span class="waitlist">还行...吧?</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">百花宴</span></td>
+        <td colspan="2"><span class="waitlist">还行吧.</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">花逐夜</span></td>
+        <td colspan="2"><span class="waitlist">看见了弹幕的幻影...*嗝儿</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">東方斑桜</span></td>
+        <td colspan="2"><span class="waitlist">首先我还想把原版的斑鸠给通了...</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">宝演舞</span></td>
+        <td colspan="2"><span class="waitlist">嗯? 它为什么在我的收藏夹里? 我已经忘记这个是什么了. 好像是因为里边有个非常申必的boss立绘?</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">潮圣书</span></td>
+        <td colspan="2"><span class="waitlist">好玩.</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">海惠堂</span></td>
+        <td colspan="2"><span class="waitlist">二百海里宴正酣! ex没打过, 刚见到boss无了. 有机会再来!</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">幻想杀</span></td>
+        <td colspan="2"><span class="waitlist">浅尝了一口, 感觉自机设计有点意思, 有时间想看看这种东西的版面是怎么个设计思路.</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">落流星</span></td>
+        <td colspan="2"><span class="waitlist"> *立 绘 精 美*, ex没打过, 有机会再来. 你们蛇都喜欢让人展示力量的吗?</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">门殊钱</span></td>
+        <td colspan="2"><span class="waitlist">浅尝了一口, 好像是个ez游戏. 什么时候打难关打得没san了就来开你(笑)</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">梦旧市</span></td>
+        <td colspan="2"><span class="waitlist">你又是为什么在我的收藏夹里呢...</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">眠世界</span></td>
+        <td colspan="2"><span class="waitlist">这个为什么在我的收藏夹里...好像是因为剧本写得蛞蝓.</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">魔晶精</span></td>
+        <td colspan="2"><span class="waitlist">打大战争头大的时候顺便下的. 好像还行.</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">时封城</span></td>
+        <td colspan="2"><span class="waitlist">这个又是为什么在我的收藏夹里呢...</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">天华楼</span></td>
+        <td colspan="2"><span class="waitlist">这个...好像是因为鲜嫩多汁!</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">铃集无名之丘</span></td>
+        <td colspan="2"><span class="waitlist">梅蒂欣!</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">日天永路</span></td>
+        <td colspan="2"><span class="waitlist">被视频推荐安利, 浅尝一下好像海蛞蝓</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">幻梦笺</span></td>
+        <td colspan="2"><span class="waitlist">好像还行.</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">远空界</span></td>
+        <td colspan="2"><span class="waitlist">好像还行.</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">龙隐谈</span></td>
+        <td colspan="2"><span class="waitlist">LOOOOOOONG! ex没能通, 有缘再来.</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">逆妙乱</span></td>
+        <td colspan="2"><span class="waitlist">朱鹭子!</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">实在相</span></td>
+        <td colspan="2"><span class="waitlist">我觉得我在通了风NB之前暂时不敢动这个, 这东西normal送了我3个六面疮痍才成功通关. 明晰梦? 再见.jpg</span></td>
+    </tr>
 </table>
 
 #### 流程约等于东方正作extra
@@ -1081,7 +1187,7 @@
     </tr>
     <tr>
         <td class="column10p"><span class="waitlist">东方光像仪</span></td>
-        <td colspan="2"><span class="waitlist">已加入豪华待办事项列表</span></td>
+        <td colspan="2"><span class="waitlist">通关: 120/97</span></td>
     </tr>
 </table>
 
@@ -1557,12 +1663,46 @@
     </tr>
 </table>
 
+## 我的泛灵论
+
+<table>
+    <tr>
+        <td class="column10p"><span class="waitlist">地狱篇</span></td>
+        <td colspan="2"><span class="waitlist">日文版能跑, 但是汉化版跑不起来, 啥时候修一修</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">天国篇</span></td>
+        <td colspan="2"><span class="waitlist">有点意思</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">黄泉返篇</span></td>
+        <td colspan="2"><span class="waitlist">有点意思</span></td>
+    </tr>
+</table>
+
+## 双子project (制作社团: 永久る～ぷ)
+
+<table>
+    <tr>
+        <td class="column10p"><span class="waitlist">TWilight INSanity</span></td>
+        <td colspan="2"><span class="waitlist">试玩normal五面被干碎了, 有趣.jpg</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">TWilight refrAIN</span></td>
+        <td colspan="2"><span class="waitlist">浅尝了一小口, 感觉飞起来比第一作更有趣</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">Alternative Sphere</span></td>
+        <td colspan="2"><span class="waitlist">收藏夹吃灰中</span></td>
+    </tr>
+</table>
+
 ## 其他各种各样
 
 <table>
     <tr>
         <td>黄昏酒场</td>
-        <td colspan="2">已通关</td>
+        <td colspan="2">已通关 *嗝儿</td>
     </tr>
     <tr>
         <td class="column10p">地狱季节感</td>
@@ -1580,5 +1720,17 @@
                 </tr>
             </table>
         </td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">魔导世纪</span></td>
+        <td colspan="2"><span class="waitlist">被干得很碎. 已经切作臊子了.</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">梦界幻魔传</span></td>
+        <td colspan="2"><span class="waitlist">被干得很碎. 已经切作臊子了.</span></td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">Juuni Jumon</span></td>
+        <td colspan="2"><span class="waitlist">这是啥来着, 想不起来, 但是你既然在我的收藏夹里那就应该是还能玩的. 名字像祝尼魔.</span></td>
     </tr>
 </table>
