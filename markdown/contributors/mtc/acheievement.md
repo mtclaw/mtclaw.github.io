@@ -2,16 +2,18 @@
  * @Author: mtclaw kagamicannery@outlook.com
  * @Date: 2026-08-22 16:50:01
  * @LastEditors: mtclaw kagamicannery@outlook.com
- * @LastEditTime: 2026-08-30 16:04:16
+ * @LastEditTime: 2026-09-10 03:41:10
 -->
 
 # 三爪师傅的进度记录
 
-## 豪华待办事项列表 (取前三项)
+## 豪华待办事项列表 (取前n项) (n <= 10)
 
 * 光像仪全通关
 * 风L梦B no bomb
 * 妖精大战争ex混关
+* TWINS混关
+* 羽日记SUNSET
 
 ## 使用的样式
 
@@ -544,6 +546,38 @@
                     <td><span class="waitlist">魔理沙+Y2月石</span></td>
                     <td><span class="waitlist">魔理沙+G1兽石</span></td>
                     <td><span class="waitlist">魔理沙+G2风石</span></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+### 新典
+
+<table>
+    <tr>
+        <td rowspan="2" class="column10p"><span class="waitlist">红魔乡(新典)</span><br />原典好像就是2002年出的红, 不重复打了</td>
+        <td colspan="2" class="column10p"><span class="waitlist">Lunatic</span></td>
+        <td>
+            <table class="inlinetable">
+                <tr>
+                    <td><span class="waitlist">梦A: 初见被按在地上打, 续了两次, 迟早找回场子.mp4</span></td>
+                    <td><span class="waitlist">梦B</span></td>
+                    <td><span class="waitlist">魔A</span></td>
+                    <td><span class="waitlist">魔B</span></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2"><span class="waitlist">Extra</span></td>
+        <td>
+            <table class="inlinetable">
+                <tr>
+                    <td><span class="waitlist">梦A</span></td>
+                    <td><span class="waitlist">梦B</span></td>
+                    <td><span class="waitlist">魔A</span></td>
+                    <td><span class="waitlist">魔B</span></td>
                 </tr>
             </table>
         </td>
@@ -1187,7 +1221,7 @@
     </tr>
     <tr>
         <td class="column10p"><span class="waitlist">东方光像仪</span></td>
-        <td colspan="2"><span class="waitlist">通关: 120/97</span></td>
+        <td colspan="2"><span class="waitlist">通关: 108/120</span></td>
     </tr>
 </table>
 
