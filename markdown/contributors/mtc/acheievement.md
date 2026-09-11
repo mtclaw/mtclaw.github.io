@@ -2,7 +2,7 @@
  * @Author: mtclaw kagamicannery@outlook.com
  * @Date: 2026-08-22 16:50:01
  * @LastEditors: mtclaw kagamicannery@outlook.com
- * @LastEditTime: 2026-09-10 03:41:10
+ * @LastEditTime: 2026-09-12 01:39:40
 -->
 
 # 三爪师傅的进度记录
@@ -13,7 +13,10 @@
 * 风L梦B no bomb
 * 妖精大战争ex混关
 * TWINS混关
-* 羽日记SUNSET
+* Taisei
+* 魔宝城
+* 红魔乡(新典)梦A L混关
+* 炸鸡extra 牌示bossrush
 
 ## 使用的样式
 
@@ -662,8 +665,51 @@
         <td colspan="3"><span class="waitlist">游戏还行, 有时间了打个Extra</span></td>
     </tr>
     <tr>
-        <td><span class="waitlist">魔宝城</span></td>
-        <td colspan="3"><span class="waitlist">Normal+Extra(魔A)打了, 体感不错, 有时间看看Lunatic</span></td>
+        <td rowspan="3">魔宝城</td>
+        <td rowspan="2"><span class="waitlist">Lunatic</span></td>
+        <td><span class="waitlist">传奇勇者模式</span></td>
+        <td>
+            <table class="inlinetable">
+                <tr>
+                    <td><span class="waitlist">梦A</span></td>
+                    <td><span class="waitlist">梦B</span></td>
+                    <td><span class="waitlist">魔A</span></td>
+                    <td><span class="waitlist">魔B</span></td>
+                    <td><span class="waitlist">苗A</span></td>
+                    <td><span class="waitlist">苗B</span></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">传统遗产模式</span></td>
+        <td>
+            <table class="inlinetable">
+                <tr>
+                    <td><span class="waitlist">梦A</span></td>
+                    <td><span class="waitlist">梦B</span></td>
+                    <td><span class="waitlist">魔A</span></td>
+                    <td><span class="waitlist">魔B</span></td>
+                    <td><span class="waitlist">苗A</span></td>
+                    <td><span class="waitlist">苗B</span></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">Extra</td>
+        <td>
+            <table class="inlinetable">
+                <tr>
+                    <td><span class="waitlist">梦A</span></td>
+                    <td><span class="waitlist">梦B</span></td>
+                    <td>魔A</td>
+                    <td><span class="waitlist">魔B</span></td>
+                    <td><span class="waitlist">苗A</span></td>
+                    <td><span class="waitlist">苗B</span></td>
+                </tr>
+            </table>
+        </td>
     </tr>
     <tr>
         <td><span class="waitlist">TriFocuser</span></td>
@@ -1084,12 +1130,39 @@
         </td>
     </tr>
     <tr>
-        <td><span class="waitlist">IKUSAAAAAAAN!</span></td>
-        <td colspan="2"><span class="waitlist">浅尝了一下, 好像还不错</span></td>
+        <td rowspan="2"><span class="waitlist">Taisei</span></td>
+        <td><span class="waitlist">Lunatic</span></td>
+        <td>
+            <table class="inlinetable">
+                <tr>
+                    <td><span class="waitlist">灵梦A</span></td>
+                    <td><span class="waitlist">灵梦B</span></td>
+                    <td><span class="waitlist">魔理沙A</span></td>
+                    <td><span class="waitlist">魔理沙B</span></td>
+                    <td><span class="waitlist">妖梦A</span></td>
+                    <td><span class="waitlist">妖梦B</span></td>
+                </tr>
+            </table>
+        </td>
     </tr>
     <tr>
-        <td><span class="waitlist">Taisei</span></td>
-        <td colspan="2"><span class="waitlist">还行</span></td>
+        <td><span class="waitlist">Extra</span></td>
+        <td>
+            <table class="inlinetable">
+                <tr>
+                    <td><span class="waitlist">灵梦A</span></td>
+                    <td><span class="waitlist">灵梦B</span></td>
+                    <td><span class="waitlist">魔理沙A</span></td>
+                    <td><span class="waitlist">魔理沙B</span></td>
+                    <td><span class="waitlist">妖梦A</span></td>
+                    <td><span class="waitlist">妖梦B</span></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">IKUSAAAAAAAN!</span></td>
+        <td colspan="2"><span class="waitlist">浅尝了一下, 好像还不错</span></td>
     </tr>
     <tr>
         <td><span class="waitlist">果世外</span></td>
@@ -1221,7 +1294,7 @@
     </tr>
     <tr>
         <td class="column10p"><span class="waitlist">东方光像仪</span></td>
-        <td colspan="2"><span class="waitlist">通关: 108/120</span></td>
+        <td colspan="2"><span class="waitlist">通关: 119/120</span></td>
     </tr>
 </table>
 
@@ -1535,25 +1608,25 @@
         </td>
     </tr>
     <tr>
-        <td><span class="waitlist">Sunset</span></td>
+        <td>Sunset</td>
         <td>
             <table class="inlinetable">
                 <tr>
                     <td><span class="waitlist">陈粉</span></td>
                     <td><span class="waitlist">夏宁</span></td>
-                    <td><span class="waitlist">岚步</span></td>
+                    <td>岚步</td>
                 </tr>
             </table>
         </td>
     </tr>
     <tr>
-        <td><span class="waitlist">Special</span></td>
+        <td>Special</td>
         <td>
             <table class="inlinetable">
                 <tr>
                     <td><span class="waitlist">陈粉</span></td>
                     <td><span class="waitlist">夏宁</span></td>
-                    <td><span class="waitlist">岚步</span></td>
+                    <td>岚步</td>
                 </tr>
             </table>
         </td>
@@ -1718,8 +1791,29 @@
 
 <table>
     <tr>
-        <td class="column10p"><span class="waitlist">TWilight INSanity</span></td>
-        <td colspan="2"><span class="waitlist">试玩normal五面被干碎了, 有趣.jpg</span></td>
+        <td rowspan="2" class="column10p"><span class="waitlist">TWilight INSanity</span></td>
+        <td class="column10p"><span class="waitlist">Hard</span></td>
+        <td>
+            <table class="inlinetable">
+                <tr>
+                    <td><span class="waitlist">羽板</span></td>
+                    <td><span class="waitlist">西条</span></td>
+                    <td><span class="waitlist">星海</span></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">Sequel</span></td>
+        <td>
+            <table class="inlinetable">
+                <tr>
+                    <td><span class="waitlist">羽板</span></td>
+                    <td><span class="waitlist">西条</span></td>
+                    <td><span class="waitlist">星海</span></td>
+                </tr>
+            </table>
+        </td>
     </tr>
     <tr>
         <td><span class="waitlist">TWilight refrAIN</span></td>
