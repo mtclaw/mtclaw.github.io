@@ -2,14 +2,13 @@
  * @Author: mtclaw kagamicannery@outlook.com
  * @Date: 2026-08-22 16:50:01
  * @LastEditors: mtclaw kagamicannery@outlook.com
- * @LastEditTime: 2026-09-12 01:39:40
+ * @LastEditTime: 2026-09-24 00:28:01
 -->
 
 # 三爪师傅的进度记录
 
 ## 豪华待办事项列表 (取前n项) (n <= 10)
 
-* 光像仪全通关
 * 风L梦B no bomb
 * 妖精大战争ex混关
 * TWINS混关
@@ -1290,11 +1289,11 @@
     </tr>
     <tr>
         <td class="column10p">东方异域证</td>
-        <td colspan="2">已混通</td>
+        <td colspan="2">通关: 66/66 (FW合成太麻烦不打了)</td>
     </tr>
     <tr>
-        <td class="column10p"><span class="waitlist">东方光像仪</span></td>
-        <td colspan="2"><span class="waitlist">通关: 119/120</span></td>
+        <td class="column10p">东方光像仪</td>
+        <td colspan="2">通关: 120/120</td>
     </tr>
 </table>
 
