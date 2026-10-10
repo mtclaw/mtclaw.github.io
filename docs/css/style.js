@@ -2,7 +2,7 @@
  * @Author: mtclaw kagamicannery@outlook.com
  * @Date: 2026-03-06 14:20:19
  * @LastEditors: mtclaw kagamicannery@outlook.com
- * @LastEditTime: 2026-09-01 01:57:21
+ * @LastEditTime: 2026-10-11 03:26:09
  * @FilePath: \good_shape\html\css\style.js
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -61,4 +61,19 @@ function returnToTop()
         top: 0,
         behavior: 'smooth'
     });
+}
+
+function toggleLightDark()
+{
+    const html = document.documentElement;
+    const next = html.dataset.theme === 'dark' ? 'light' : 'dark';
+    html.dataset.theme = next;
+    localStorage.setItem('theme', next);
+    const expandbtn = document.getElementById('toggle-theme-btn');
+    if (html.dataset.theme == 'dark') {
+        expandbtn.textContent = '☀';
+    }
+    else {
+        expandbtn.textContent = '☽';
+    }
 }

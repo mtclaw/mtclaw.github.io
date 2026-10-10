@@ -1,3 +1,10 @@
+:root {
+    color-scheme: light dark;
+}
+
+html[data-theme="light"] { color-scheme: light; }
+html[data-theme="dark"]  { color-scheme: dark; }
+
 html, body {
     height: 100%;
 }
@@ -8,6 +15,7 @@ body {
     min-height: 100vh;
     margin: 0;
     background-color: #B0C4DE;
+    background-color: light-dark(#B0C4DE, #0f1419);
 }
 
 header {
@@ -15,16 +23,20 @@ header {
     padding-bottom: 10px;
     width: 100%;
     background-color: #B0C4DE;
+    background-color: light-dark(#B0C4DE, #0f1419);
     color: #FFFFF0;
+    color: light-dark(#FFFFF0, #000000);
     text-align: left;
     border-style: solid;
     border-width: 2px 0px 2px 0px;
     border-color: #F0F8FF;
+    border-color: light-dark(#F0F8FF, #000000);
 }
 
 .headertext {
     padding-left: 6%;
     color: #3C4246;
+    color: light-dark(#3C4246, #E9967A);
 }
 
 nav {
@@ -33,9 +45,11 @@ nav {
     width: 100%;
     overflow: hidden;
     background-color: #ffd573;
+    background-color: light-dark(#ffd573, #E9967A);
     border-style: solid;
     border-width: 2px 0px 2px 0px;
     border-color: #694a01;
+    border-color: light-dark(#694a01, #6B0000);
 }
 
 nav a {
@@ -43,6 +57,7 @@ nav a {
     display: block;
     width: 100%;
     color: #694a01;
+    color: light-dark(#694a01, #6B0000);
     text-align: center;
     padding: 14px 0px 14px 0px;
     text-decoration: none;
@@ -50,7 +65,9 @@ nav a {
 
 nav a:hover {
     background-color: #a67400;
+    background-color: light-dark(#a67400, #B22222);
     color: #ffe6ab;
+    color: light-dark(#ffe6ab, #FFA07A);
 }
 
 #maintext {
@@ -63,7 +80,9 @@ footer {
     flex-shrink: 0;
     width: 100%;
     background-color: #ffd573;
+    background-color: light-dark(#ffd573, #E9967A);
     color: #694a01;
+    color: light-dark(#694a01, #6B0000);
     text-align: center;
     border-style: solid;
     border-width: 2px 0px 2px 0px;
@@ -76,14 +95,17 @@ footer {
 
 .content p {
     color: #000000;
+    color: light-dark(#000000, #d0d4d8);
 }
 
 .content ul, li {
     color: #000000;
+    color: light-dark(#000000, #d0d4d8);
 }
 
 .content h1, h2, h3, h4, h5, h6{
-    color: #8b0000;
+    color: #6B0000;
+    color: light-dark(#6B0000, #E9967A);
 }
 
 #sidebar{
@@ -97,7 +119,9 @@ footer {
 
 .board{
     background-color: #ffd573;
+    background-color: light-dark(#ffd573, #E9967A);
     color: #694a01;
+    border-color: light-dark(#694a01, #6B0000);
     border-style: solid;
     text-align: left;
     border-radius: 2px;
@@ -113,8 +137,10 @@ footer {
 
 code{
     background-color: #D1EDF2;
+    background-color: light-dark(#D1EDF2, #3C4246);
     padding: 0.2em;
     border-color: #3C4246;
+    border-color: light-dark(#3C4246, #D1EDF2);
     border-style: solid;
     border-radius: 0.2em;
     border-width: 1px;
@@ -124,8 +150,10 @@ code{
 
 blockquote{
     background-color: #D1EDF2;
+    background-color: light-dark(#D1EDF2, #3C4246);
     padding-left: 2em;
     border-color: #3C4246;
+    border-color: light-dark(#3C4246, #D1EDF2);
     border-style: solid;
     border-radius: 0.2em;
     border-width: 1px;
@@ -133,12 +161,14 @@ blockquote{
 }
 
 .catewrapper a{
-    color: #3C4246;
+    color: #694a01;
+    color: light-dark(#694a01, #6B0000);
     text-decoration: none;
 }
 
 .catewrapper a:hover {
     color: #000000;
+    color: light-dark(#000000, #000000);
     text-decoration: underline;
     cursor: pointer;
 }
@@ -146,18 +176,24 @@ blockquote{
 .catewrapper ul {
   padding-left: 0;
   margin-left: 0;
+  color: #694a01;
+  color: light-dark(#694a01, #6B0000);
 }
 
 .catewrapper li {
   margin-left: 2em;
+  color: #694a01;
+  color: light-dark(#694a01, #6B0000);
 }
 
 del{
     color: #694a01;
+    color: light-dark(#694a01, #8FBC8B);
 }
 
 span.waitlist{
     color: #800080;
+    color: light-dark(#800080, #9370DB);
     text-decoration: underline;
     text-decoration-style: wavy;
 }
@@ -215,12 +251,14 @@ table{
     border-collapse: collapse;
     border: 2px solid;
     border-color: #000000;
+    border-color: light-dark(#000000, #d0d4d8);
     text-align: left;
 }
 
 table tr td{
     border: 1px solid;
     border-color: #000000;
+    border-color: light-dark(#000000, #d0d4d8);
     padding: 2px;
 }
 
@@ -242,6 +280,7 @@ table.inlinetable tr td{
 
 details > summary {
     color: #3C4246;
+    color: light-dark(#3C4246, #a0a8b0);
 }
 
 details > summary:hover {
@@ -252,6 +291,7 @@ details > summary:hover {
 details[open] {
     border: 1px solid;
     border-color: #3C4246;
+    color: light-dark(#3C4246, #a0a8b0);
     padding: 2px;
 }
 
@@ -263,9 +303,16 @@ details[open] {
     background: none;
     border: none;
     color: #694a01;
+    color: light-dark(#694a01, #6B0000);
     cursor: pointer;
     display: block;
     padding-bottom: 2px;
+}
+
+#collapse-sidebar-btn:hover {
+    color: #000000;
+    color: light-dark(#000000, #000000);
+    text-decoration: underline;
 }
 
 #float-button-group {
@@ -280,13 +327,17 @@ details[open] {
 
 .float-btn {
     background: #ffd573;
+    background: light-dark(#ffd573, #E9967A);
     border: solid;
     border-color: #694a01;
+    border-color: light-dark(#694a01, #6B0000);
     border-radius: 6px;
     color: #694a01;
+    color: light-dark(#694a01, #6B0000);
     cursor: pointer;
     width: 56px;
     height: 56px;
+    font-size: 150%;
 }
 
 .hidden {
