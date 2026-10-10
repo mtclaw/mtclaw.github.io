@@ -2,7 +2,7 @@
  * @Author: mtclaw kagamicannery@outlook.com
  * @Date: 2026-08-22 16:50:01
  * @LastEditors: mtclaw kagamicannery@outlook.com
- * @LastEditTime: 2026-09-24 00:28:01
+ * @LastEditTime: 2026-10-05 21:15:05
 -->
 
 # 三爪师傅的进度记录
@@ -16,6 +16,9 @@
 * 魔宝城
 * 红魔乡(新典)梦A L混关
 * 炸鸡extra 牌示bossrush
+* 庙L初通录像丢失了, 补档一个
+* 想法: 虎二非有没有类似于狂气的利用相似性的预判打法?
+    * 首先, 学会狂气...
 
 ## 使用的样式
 
@@ -1294,6 +1297,10 @@
     <tr>
         <td class="column10p">东方光像仪</td>
         <td colspan="2">通关: 120/120</td>
+    </tr>
+    <tr>
+        <td class="column10p"><span class="waitlist">东方泡台风</span></td>
+        <td colspan="2"><span class="waitlist">试吃了1-1, 瞬间疮痍, 有趣, 已加入豪华待办事项列表</span></td>
     </tr>
 </table>
 

@@ -2,7 +2,7 @@
  * @Author: mtclaw kagamicannery@outlook.com
  * @Date: 2026-09-01 00:10:45
  * @LastEditors: mtclaw kagamicannery@outlook.com
- * @LastEditTime: 2026-09-01 01:32:22
+ * @LastEditTime: 2026-10-05 13:57:24
 -->
 
 # stg打法收集(目录)
@@ -22,3 +22,7 @@
 #### 整数作
 
 - [東方風神録　～ Mountain of Faith.](./touhou/th10.md)
+
+### 梦幻弹幕游戏
+
+- [兴荣城夜记 ~ kerai's capital night](./kerai/mh01.md)
