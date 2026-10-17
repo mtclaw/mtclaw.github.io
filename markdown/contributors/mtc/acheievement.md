@@ -2,7 +2,7 @@
  * @Author: mtclaw kagamicannery@outlook.com
  * @Date: 2026-08-22 16:50:01
  * @LastEditors: mtclaw kagamicannery@outlook.com
- * @LastEditTime: 2026-10-05 21:15:05
+ * @LastEditTime: 2026-10-18 01:40:17
 -->
 
 # 三爪师傅的进度记录
@@ -991,7 +991,7 @@
     <tr>
         <tr>
         <td rowspan="2" class="column10p">催狐谭</td>
-        <td class="column10p">Lunatic</td>
+        <td colspan="2" class="column10p">Lunatic</td>
         <td>
             <table class="inlinetable">
                 <tr>
@@ -1008,7 +1008,7 @@
         </td>
     </tr>
     <tr>
-        <td>Extra</td>
+        <td colspan="2">Extra</td>
         <td>
             <table class="inlinetable">
                 <tr>
@@ -1027,7 +1027,7 @@
     <tr>
         <tr>
         <td rowspan="2" class="column10p">资志疏</td>
-        <td class="column10p">Lunatic</td>
+        <td colspan="2" class="column10p">Lunatic</td>
         <td>
             <table class="inlinetable">
                 <tr>
@@ -1041,7 +1041,7 @@
         </td>
     </tr>
     <tr>
-        <td>Extra</td>
+        <td colspan="2">Extra</td>
         <td>
             <table class="inlinetable">
                 <tr>
@@ -1057,7 +1057,7 @@
     <tr>
         <tr>
         <td rowspan="5" class="column10p">宝天京</td>
-        <td class="column10p">Lunatic (5A)</td>
+        <td colspan="2" class="column10p">Lunatic (5A)</td>
         <td>
             <table class="inlinetable">
                 <tr>
@@ -1072,7 +1072,7 @@
         </td>
     </tr>
     <tr>
-        <td>Lunatic (5B)</td>
+        <td colspan="2">Lunatic (5B)</td>
         <td>
             <table class="inlinetable">
                 <tr>
@@ -1087,7 +1087,7 @@
         </td>
     </tr>
     <tr>
-        <td>Extra (夏祭)</td>
+        <td colspan="2">Extra (夏祭)</td>
         <td>
             <table class="inlinetable">
                 <tr>
@@ -1102,7 +1102,7 @@
         </td>
     </tr>
     <tr>
-        <td>Extra (迷宫)</td>
+        <td colspan="2">Extra (迷宫)</td>
         <td>
             <table class="inlinetable">
                 <tr>
@@ -1117,7 +1117,7 @@
         </td>
     </tr>
     <tr>
-        <td>Extra (叙事诗)</td>
+        <td colspan="2">Extra (叙事诗)</td>
         <td>
             <table class="inlinetable">
                 <tr>
@@ -1133,7 +1133,7 @@
     </tr>
     <tr>
         <td rowspan="2"><span class="waitlist">Taisei</span></td>
-        <td><span class="waitlist">Lunatic</span></td>
+        <td colspan="2"><span class="waitlist">Lunatic</span></td>
         <td>
             <table class="inlinetable">
                 <tr>
@@ -1148,7 +1148,7 @@
         </td>
     </tr>
     <tr>
-        <td><span class="waitlist">Extra</span></td>
+        <td colspan="2"><span class="waitlist">Extra</span></td>
         <td>
             <table class="inlinetable">
                 <tr>
@@ -1164,95 +1164,160 @@
     </tr>
     <tr>
         <td><span class="waitlist">IKUSAAAAAAAN!</span></td>
-        <td colspan="2"><span class="waitlist">浅尝了一下, 好像还不错</span></td>
+        <td colspan="3"><span class="waitlist">浅尝了一下, 好像还不错</span></td>
     </tr>
     <tr>
         <td><span class="waitlist">果世外</span></td>
-        <td colspan="2"><span class="waitlist">还行...吧?</span></td>
+        <td colspan="3"><span class="waitlist">还行...吧?</span></td>
     </tr>
     <tr>
         <td><span class="waitlist">百花宴</span></td>
-        <td colspan="2"><span class="waitlist">还行吧.</span></td>
+        <td colspan="3"><span class="waitlist">还行吧.</span></td>
     </tr>
     <tr>
         <td><span class="waitlist">花逐夜</span></td>
-        <td colspan="2"><span class="waitlist">看见了弹幕的幻影...*嗝儿</span></td>
+        <td colspan="3"><span class="waitlist">看见了弹幕的幻影...*嗝儿</span></td>
     </tr>
     <tr>
         <td><span class="waitlist">東方斑桜</span></td>
-        <td colspan="2"><span class="waitlist">首先我还想把原版的斑鸠给通了...</span></td>
+        <td colspan="3"><span class="waitlist">首先我还想把原版的斑鸠给通了...</span></td>
     </tr>
     <tr>
         <td><span class="waitlist">宝演舞</span></td>
-        <td colspan="2"><span class="waitlist">嗯? 它为什么在我的收藏夹里? 我已经忘记这个是什么了. 好像是因为里边有个非常申必的boss立绘?</span></td>
+        <td colspan="3"><span class="waitlist">嗯? 它为什么在我的收藏夹里? 我已经忘记这个是什么了. 好像是因为里边有个非常申必的boss立绘?</span></td>
     </tr>
     <tr>
         <td><span class="waitlist">潮圣书</span></td>
-        <td colspan="2"><span class="waitlist">好玩.</span></td>
+        <td colspan="3"><span class="waitlist">好玩.</span></td>
     </tr>
     <tr>
         <td><span class="waitlist">海惠堂</span></td>
-        <td colspan="2"><span class="waitlist">二百海里宴正酣! ex没打过, 刚见到boss无了. 有机会再来!</span></td>
+        <td colspan="3"><span class="waitlist">二百海里宴正酣! ex没打过, 刚见到boss无了. 有机会再来!</span></td>
     </tr>
     <tr>
         <td><span class="waitlist">幻想杀</span></td>
-        <td colspan="2"><span class="waitlist">浅尝了一口, 感觉自机设计有点意思, 有时间想看看这种东西的版面是怎么个设计思路.</span></td>
+        <td colspan="3"><span class="waitlist">浅尝了一口, 感觉自机设计有点意思, 有时间想看看这种东西的版面是怎么个设计思路.</span></td>
     </tr>
     <tr>
         <td><span class="waitlist">落流星</span></td>
-        <td colspan="2"><span class="waitlist"> *立 绘 精 美*, ex没打过, 有机会再来. 你们蛇都喜欢让人展示力量的吗?</span></td>
+        <td colspan="3"><span class="waitlist"> *立 绘 精 美*, ex没打过, 有机会再来. 你们蛇都喜欢让人展示力量的吗?</span></td>
     </tr>
     <tr>
         <td><span class="waitlist">门殊钱</span></td>
-        <td colspan="2"><span class="waitlist">浅尝了一口, 好像是个ez游戏. 什么时候打难关打得没san了就来开你(笑)</span></td>
+        <td colspan="3"><span class="waitlist">浅尝了一口, 好像是个ez游戏. 什么时候打难关打得没san了就来开你(笑)</span></td>
     </tr>
     <tr>
         <td><span class="waitlist">梦旧市</span></td>
-        <td colspan="2"><span class="waitlist">你又是为什么在我的收藏夹里呢...</span></td>
+        <td colspan="3"><span class="waitlist">你又是为什么在我的收藏夹里呢...</span></td>
     </tr>
     <tr>
         <td><span class="waitlist">眠世界</span></td>
-        <td colspan="2"><span class="waitlist">这个为什么在我的收藏夹里...好像是因为剧本写得蛞蝓.</span></td>
+        <td colspan="3"><span class="waitlist">这个为什么在我的收藏夹里...好像是因为剧本写得蛞蝓.</span></td>
     </tr>
     <tr>
         <td><span class="waitlist">魔晶精</span></td>
-        <td colspan="2"><span class="waitlist">打大战争头大的时候顺便下的. 好像还行.</span></td>
+        <td colspan="3"><span class="waitlist">打大战争头大的时候顺便下的. 好像还行.</span></td>
     </tr>
     <tr>
         <td><span class="waitlist">时封城</span></td>
-        <td colspan="2"><span class="waitlist">这个又是为什么在我的收藏夹里呢...</span></td>
+        <td colspan="3"><span class="waitlist">这个又是为什么在我的收藏夹里呢...</span></td>
     </tr>
     <tr>
-        <td><span class="waitlist">天华楼</span></td>
-        <td colspan="2"><span class="waitlist">这个...好像是因为鲜嫩多汁!</span></td>
+        <td rowspan="4">天华楼</td>
+        <td rowspan="2">Lunatic</td>
+        <td>天华统一</td>
+        <td>
+            <table class="inlinetable">
+                <tr>
+                    <td>灵梦</td>
+                    <td><span class="waitlist">魔理沙</span></td>
+                    <td><span class="waitlist">咲夜</span></td>
+                    <td><span class="waitlist">早苗</span></td>
+                    <td><span class="waitlist">妖梦</span></td>
+                    <td><span class="waitlist">幽香</span></td>
+                    <td><span class="waitlist">铃仙</span></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">传奇</span></td>
+        <td>
+            <table class="inlinetable">
+                <tr>
+                    <td><span class="waitlist">灵梦</span></td>
+                    <td><span class="waitlist">魔理沙</span></td>
+                    <td><span class="waitlist">咲夜</span></td>
+                    <td><span class="waitlist">早苗</span></td>
+                    <td><span class="waitlist">妖梦</span></td>
+                    <td><span class="waitlist">幽香</span></td>
+                    <td><span class="waitlist">铃仙</span></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="2"><span class="waitlist">Extra</span></td>
+        <td><span class="waitlist">天华统一</span></td>
+        <td>
+            <table class="inlinetable">
+                <tr>
+                    <td><span class="waitlist">灵梦</span></td>
+                    <td><span class="waitlist">魔理沙</span></td>
+                    <td><span class="waitlist">咲夜</span></td>
+                    <td><span class="waitlist">早苗</span></td>
+                    <td><span class="waitlist">妖梦</span></td>
+                    <td><span class="waitlist">幽香</span></td>
+                    <td><span class="waitlist">铃仙</span></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td><span class="waitlist">传奇</span></td>
+        <td>
+            <table class="inlinetable">
+                <table class="inlinetable">
+                <tr>
+                    <td><span class="waitlist">灵梦</span></td>
+                    <td><span class="waitlist">魔理沙</span></td>
+                    <td><span class="waitlist">咲夜</span></td>
+                    <td><span class="waitlist">早苗</span></td>
+                    <td><span class="waitlist">妖梦</span></td>
+                    <td><span class="waitlist">幽香</span></td>
+                    <td><span class="waitlist">铃仙</span></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
     </tr>
     <tr>
         <td><span class="waitlist">铃集无名之丘</span></td>
-        <td colspan="2"><span class="waitlist">梅蒂欣!</span></td>
+        <td colspan="3"><span class="waitlist">梅蒂欣!</span></td>
     </tr>
     <tr>
         <td><span class="waitlist">日天永路</span></td>
-        <td colspan="2"><span class="waitlist">被视频推荐安利, 浅尝一下好像海蛞蝓</span></td>
+        <td colspan="3"><span class="waitlist">被视频推荐安利, 浅尝一下好像海蛞蝓</span></td>
     </tr>
     <tr>
         <td><span class="waitlist">幻梦笺</span></td>
-        <td colspan="2"><span class="waitlist">好像还行.</span></td>
+        <td colspan="3"><span class="waitlist">好像还行.</span></td>
     </tr>
     <tr>
         <td><span class="waitlist">远空界</span></td>
-        <td colspan="2"><span class="waitlist">好像还行.</span></td>
+        <td colspan="3"><span class="waitlist">好像还行.</span></td>
     </tr>
     <tr>
         <td><span class="waitlist">龙隐谈</span></td>
-        <td colspan="2"><span class="waitlist">LOOOOOOONG! ex没能通, 有缘再来.</span></td>
+        <td colspan="3"><span class="waitlist">LOOOOOOONG! ex没能通, 有缘再来.</span></td>
     </tr>
     <tr>
         <td><span class="waitlist">逆妙乱</span></td>
-        <td colspan="2"><span class="waitlist">朱鹭子!</span></td>
+        <td colspan="3"><span class="waitlist">朱鹭子!</span></td>
     </tr>
     <tr>
         <td><span class="waitlist">实在相</span></td>
-        <td colspan="2"><span class="waitlist">我觉得我在通了风NB之前暂时不敢动这个, 这东西normal送了我3个六面疮痍才成功通关. 明晰梦? 再见.jpg</span></td>
+        <td colspan="3"><span class="waitlist">我觉得我在通了风NB之前暂时不敢动这个, 这东西normal送了我3个六面疮痍才成功通关. 明晰梦? 再见.jpg</span></td>
     </tr>
 </table>
 
@@ -1866,5 +1931,28 @@
     <tr>
         <td><span class="waitlist">Juuni Jumon</span></td>
         <td colspan="2"><span class="waitlist">这是啥来着, 想不起来, 但是你既然在我的收藏夹里那就应该是还能玩的. 名字像祝尼魔.</span></td>
+    </tr>
+    <tr>
+        <td rowspan="2" class="column10p">再弦灰阳响</td>
+        <td class="column10p"><span class="waitlist">Not OK</span></td>
+        <td>
+            <table class="inlinetable">
+                <tr>
+                    <td><span class="waitlist">A</span></td>
+                    <td><span class="waitlist">B</span></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td class="column10p">Extra</td>
+        <td>
+            <table class="inlinetable">
+                <tr>
+                    <td>A</td>
+                    <td>B</td>
+                </tr>
+            </table>
+        </td>
     </tr>
 </table>

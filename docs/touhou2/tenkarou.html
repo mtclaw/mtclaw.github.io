@@ -1,0 +1,200 @@
+<!--
+ * @Author: mtclaw kagamicannery@outlook.com
+ * @Date: 2026-08-22 15:53:55
+ * @LastEditors: mtclaw kagamicannery@outlook.com
+ * @LastEditTime: 2026-10-11 03:26:26
+-->
+
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+
+  <!-- 防闪烁：必须在 <link rel="stylesheet"> 之前 -->
+  <script>
+    var saved = localStorage.getItem('theme');
+    if (saved) document.documentElement.dataset.theme = saved;
+  </script>
+   <!-- 按主题刷新页面 -->
+  <script>
+    if (!document.documentElement.dataset.theme) {
+      document.documentElement.dataset.theme =
+        matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+    else {
+      if(document.documentElement.dataset.theme == 'dark') {
+        const expandbtn = document.getElementById('toggle-theme-btn');
+        expandbtn.textContent = '☀';
+      }
+    }
+  </script>
+
+  <link rel="shortcut icon" href="/asset/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/css/style.css">
+  <script src="/css/style.js" defer></script>
+  <title>東方天華楼 ～ Frantically Forbidden Fruit</title>
+</head>
+<body>
+
+  <header>
+    <div class="headertext">
+    <h1>Good Shape
+    </h1>
+    <p>形状好好.</p>
+    </div>
+  </header>
+
+  <nav>
+    <table class="inlinetable">
+      <tr>
+          <td><a href="/index.html"><b>首页</b></a></td>
+          <td><a href="javascript:void(0)"><b>占位符</b></a></td>
+          <td><a href="javascript:void(0)"><b>占位符</b></a></td>
+          <td><a href="javascript:void(0)"><b>占位符</b></a></td>
+          <td><a href="/stgcheatsheet.html"><b>stg打法收集</b></a></td>
+          <td><a href="/contributors/mtc/acheievement.html"><b>三爪师傅的进度表</b></a></td>
+      </tr>
+    </table>
+  </nav>
+  
+  <div id="sidebar">
+    <div class="board" id="category">
+      <div class="catewrapper">
+        <button id="collapse-sidebar-btn" onclick="toggleSidebar()">折叠侧边栏>></button>
+      <ul>
+      <li><a href="#東方天華楼-frantically-forbidden-fruit"
+      id="toc-東方天華楼-frantically-forbidden-fruit">東方天華楼 ～
+      Frantically Forbidden Fruit</a>
+      <ul>
+      <li><a href="#简介" id="toc-简介">简介</a></li>
+      <li><a href="#游戏系统" id="toc-游戏系统">游戏系统</a>
+      <ul>
+      <li><a href="#天华统一模式"
+      id="toc-天华统一模式">天华统一模式</a></li>
+      <li><a href="#传奇模式" id="toc-传奇模式">传奇模式</a></li>
+      </ul></li>
+      <li><a href="#机体特性" id="toc-机体特性">机体特性</a></li>
+      <li><a href="#参考资料" id="toc-参考资料">参考资料</a>
+      <ul>
+      <li><a href="#一面" id="toc-一面">一面</a></li>
+      <li><a href="#二面" id="toc-二面">二面</a></li>
+      <li><a href="#三面" id="toc-三面">三面</a></li>
+      <li><a href="#四面" id="toc-四面">四面</a></li>
+      <li><a href="#五面" id="toc-五面">五面</a></li>
+      <li><a href="#六面" id="toc-六面">六面</a></li>
+      <li><a href="#extra" id="toc-extra">Extra</a></li>
+      </ul></li>
+      </ul></li>
+      </ul>
+      </div>
+    </div>
+  </div>
+  
+  <div class="content">
+    <div id="maintext">
+      <!--
+       * @Author: mtclaw kagamicannery@outlook.com
+       * @Date: 2026-10-18 01:33:15
+       * @LastEditors: mtclaw kagamicannery@outlook.com
+       * @LastEditTime: 2026-10-18 02:24:10
+      -->
+      <h1 id="東方天華楼-frantically-forbidden-fruit">東方天華楼 ～
+      Frantically Forbidden Fruit</h1>
+      <h2 id="简介">简介</h2>
+      <p>见<a
+      href="https://www.thwiki.cc/%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit.">THBwiki
+      - 东方天华楼</a>.</p>
+      <details>
+      <summary>
+      剧透警告: 游戏整体风格
+      </summary>
+      <p>
+      主打一个正作复刻. boss都是老熟人.
+      </p>
+      <p>
+      你可以通过boss是谁, 当前是哪个场景,
+      预判一下接下来的弹幕大概是什么形状.
+      </p>
+      <p>
+      但是, 这里就开始有说法了.
+      </p>
+      <p>
+      弹幕设计加入了一定量的创新, 于是乎会给你塞很多初见杀和高速弹.
+      </p>
+      <p>
+      传统模式下可能会造成避弹方面的困扰. (注: 我没玩这个模式, 我猜的)
+      </p>
+      <p>
+      天华统一模式下, 多用果汁系统, 你就会发现正片非常简单,
+      cccbbb交替着放就通了, 是个爽游.
+      </p>
+      <p>
+      但Extra并不白给, 毫无准备地打, 就算是天华统一模式也会通不了.
+      </p>
+      </details>
+      <h2 id="游戏系统">游戏系统</h2>
+      <p>分两种玩法. 详细的见<a
+      href="https://www.thwiki.cc/%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E">THBwiki
+      - 东方天华楼/系统说明</a>.</p>
+      <p>残机的来源有: 打分, 固定掉落, (天华统一限定)桃子味果汁特效,
+      (传奇模式限定)捡水果道具.</p>
+      <p>雷的来源有: 固定掉落, (天华统一限定)蜜瓜味果汁特效.</p>
+      <p>此外, 撞某些弹幕会给自机挂异常状态.
+      (天华统一限定)按C喝果汁能解除.</p>
+      <h3 id="天华统一模式">天华统一模式</h3>
+      <p>主打果汁系统的玩法.</p>
+      <p>简单来说:</p>
+      <ul>
+      <li>每个残机带一个hp条, 撞弹先扣hp, 扣完hp扣1残机, 并且hp条回满.
+      残机扣完就寄了.</li>
+      <li>雷槽数值就是你的雷数量, 每100点=1B. 大于2B时miss不会重置回2,
+      而是保持当前数量.</li>
+      </ul>
+      <h4 id="果汁系统">果汁系统</h4>
+      <ul>
+      <li>擦弹加果汁, 捡水果道具也加果汁, 果汁最多攒6L(3瓶子)</li>
+      <li>果汁量表大于1L时按C能发动果汁特效, 发动期间无敌.</li>
+      <li>果汁口味不同, 特殊效果也不同. 例如:
+      <ul>
+      <li>桃子味: hp条持续恢复(不会增加残机).</li>
+      <li>蜜瓜味: +1B.</li>
+      </ul></li>
+      </ul>
+      <h3 id="传奇模式">传奇模式</h3>
+      <p>ban了果汁系统及其特效.</p>
+      <p>捡水果道具可以填充残机槽, 填满后加1残.</p>
+      <h2 id="机体特性">机体特性</h2>
+      <p>详见<a
+      href="https://www.thwiki.cc/%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E">THBwiki
+      - 东方天华楼/系统说明</a>.</p>
+      <h2 id="参考资料">参考资料</h2>
+      <h3 id="一面">一面</h3>
+      <p>(暂无)</p>
+      <h3 id="二面">二面</h3>
+      <p>(暂无)</p>
+      <h3 id="三面">三面</h3>
+      <p>(暂无)</p>
+      <h3 id="四面">四面</h3>
+      <p>(暂无)</p>
+      <h3 id="五面">五面</h3>
+      <p>(暂无)</p>
+      <h3 id="六面">六面</h3>
+      <p>(暂无)</p>
+      <h3 id="extra">Extra</h3>
+      <p>(暂无)</p>
+    </div>
+  </div>
+
+  <div id="float-button-group">
+    <button class="float-btn hidden" id="expand-sidebar-btn" onclick="toggleSidebar()" title="展开侧边栏"><b><<</b></button>
+    <button class="float-btn" id="return-to-top-btn" onclick="returnToTop()" title="回到开头"><b>↑</b></button>
+    <button class="float-btn" id="toggle-theme-btn" onclick="toggleLightDark()" title="切换配色方案"><b>☀</b></button>
+  </div>
+
+  <footer>
+    <p>powered by pandoc.</p>
+  </footer>
+</body>
+</html>
