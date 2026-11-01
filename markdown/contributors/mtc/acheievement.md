@@ -2,7 +2,7 @@
  * @Author: mtclaw kagamicannery@outlook.com
  * @Date: 2026-08-22 16:50:01
  * @LastEditors: mtclaw kagamicannery@outlook.com
- * @LastEditTime: 2026-10-18 01:40:17
+ * @LastEditTime: 2026-11-01 18:16:37
 -->
 
 # 三爪师傅的进度记录
@@ -16,9 +16,9 @@
 * 魔宝城
 * 红魔乡(新典)梦A L混关
 * 炸鸡extra 牌示bossrush
-* 庙L初通录像丢失了, 补档一个
 * 想法: 虎二非有没有类似于狂气的利用相似性的预判打法?
     * 首先, 学会狂气...
+* 完美[莲华景] <- 学不会! 嗯...
 
 ## 使用的样式
 
