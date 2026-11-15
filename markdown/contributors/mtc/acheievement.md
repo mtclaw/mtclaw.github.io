@@ -14,7 +14,7 @@
 * TWINS混关
 * Taisei
 * 魔宝城
-* 红魔乡(新典)梦A L混关
+* 红魔乡(新典)梦A Extra混关
 * 炸鸡extra 牌示bossrush
 * 想法: 虎二非有没有类似于狂气的利用相似性的预判打法?
     * 首先, 学会狂气...
@@ -561,12 +561,12 @@
 
 <table>
     <tr>
-        <td rowspan="2" class="column10p"><span class="waitlist">红魔乡(新典)</span><br />原典好像就是2002年出的红, 不重复打了</td>
-        <td colspan="2" class="column10p"><span class="waitlist">Lunatic</span></td>
+        <td rowspan="2" class="column10p">红魔乡(新典)<br /><del>原典好像就是2002年出的红, 不重复打了</del></td>
+        <td colspan="2" class="column10p">Lunatic</td>
         <td>
             <table class="inlinetable">
                 <tr>
-                    <td><span class="waitlist">梦A: 初见被按在地上打, 续了两次, 迟早找回场子.mp4</span></td>
+                    <td>梦A</td>
                     <td><span class="waitlist">梦B</span></td>
                     <td><span class="waitlist">魔A</span></td>
                     <td><span class="waitlist">魔B</span></td>
